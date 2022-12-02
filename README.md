@@ -1,5 +1,5 @@
 # python.matplotlib-chinese-setting
-##ways to setting
+## ways to setting
 
 ```python
 import matplotlib.font_manager as fm
