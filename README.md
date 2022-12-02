@@ -1,5 +1,5 @@
 # python.matplotlib-chinese-setting
-setting chinese in plot
+ways to setting
 
 import matplotlib.font_manager as fm
 prop = fm.FontProperties(fname='./SourceHanSansTW-Regular.otf') 
