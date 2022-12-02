@@ -1,7 +1,7 @@
 # python.matplotlib-chinese-setting
 ## ways to setting
 
-` download the 'SourceHanSansTW-Regular.otf' `
+` 🪛🪛🪛download the 'SourceHanSansTW-Regular.otf' `
 
 ```python
 import matplotlib.font_manager as fm
