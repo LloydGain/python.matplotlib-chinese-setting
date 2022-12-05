@@ -3,6 +3,8 @@
 
 ` 🪛🪛🪛download the 'SourceHanSansTW-Regular.otf' `
 
+`example`
+
 ```python
 import matplotlib.font_manager as fm
 prop = fm.FontProperties(fname='./SourceHanSansTW-Regular.otf') 
