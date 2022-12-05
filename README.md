@@ -3,7 +3,7 @@
 
 ` 🪛🪛🪛download the 'SourceHanSansTW-Regular.otf' `
 
-`example`
+`example:`
 
 ```python
 import matplotlib.font_manager as fm
